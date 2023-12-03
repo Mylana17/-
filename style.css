@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+ nav a {
+   text-underline-position:under;
+   font-size: 15px;
+    margin-right: 70px;
+    padding: 30px 30px 30px 30px;
+    color: black;
+    border-bottom:20px;
+    font-weight:bolder;
+  }
+  h1 {text-align:center;
+  }
+  
+.dotted { border-left:10px dotted black; margin: 25px;
+   
+}
+main p {font-size: 19px; padding: 20px; margin: 20px;
+  border: 2px solid black; border-radius: 15px;
+  }   
+footer p {background-color: white; color:black;
+ padding: 10px 10px 10px 10px ;
+}
+ footer { background-color: black;
+  padding: 15px 15px 15px 15px;
+}
